@@ -4,7 +4,7 @@
 ## Description
 
 This project involves web scraping the Wikipedia page "List of largest companies in the United States by revenue" using Python and HTML. The goal of the project is to extract valuable information about the largest companies in the United States based on their revenue and present it in a structured format.
-
+And at the end the discovered dataframe is also converted in a .csv file further purpose of data analysis.
 ## Table of Contents
 
 - [Usage](#usage)
